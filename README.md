@@ -42,13 +42,4 @@ This data science project demonstrates the **end-to-end development** of a machi
 
 ## 🚀 Project Structure
 
-real-estate-price-prediction/
-├── client/ # Frontend (HTML/CSS/JS)
-│ └── index.html
-├── server/ # Backend Flask server
-│ ├── server.py
-│ └── artifacts/ # Stored model and columns
-├── model/ # Jupyter notebooks for model building
-│ └── real_estate_model.ipynb
-├── README.md
-├── requirements.txt
+<pre lang="markdown"><code> ``` real-estate-price-prediction/ ├── client/ # Frontend (HTML/CSS/JS) │ └── index.html ├── server/ # Backend Flask server │ ├── server.py │ └── artifacts/ # Stored model and columns ├── model/ # Jupyter notebooks for model building │ └── real_estate_model.ipynb ├── README.md ├── requirements.txt ``` </code></pre>
